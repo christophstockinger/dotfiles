@@ -35,6 +35,8 @@ pecl install imagick redis swoole
 
 # Change Git default branch
 git config --global init.defaultBranch main
+git config --global user.email "cstockinger@c77.digital"                                                                                                                                                                                  ~
+git config --global user.name "Christoph Stockinger"
 
 # Install global Composer packages
 /usr/local/bin/composer global require laravel/installer laravel/valet beyondcode/expose
