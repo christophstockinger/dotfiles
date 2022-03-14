@@ -69,6 +69,7 @@ cask 'insomnia'
 cask 'phpmon'
 cask 'phpstorm'
 cask 'tableplus'
+cask 'iterm2'
 cask 'termius' # SSH Client
 cask 'tinkerwell' # Smart PHP Testing Tool
 cask 'tower'
