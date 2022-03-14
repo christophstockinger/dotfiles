@@ -78,7 +78,7 @@ ZSH_CUSTOM=$DOTFILES
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git bundler dotenv macos ruby)
+plugins=(aws brew bundler colorize composer cp docker-compose docker doctl dotenv emoji encode64 gcloud gh git-lfs git gitignore helm ionic iterm2 laravel macos mongocli node npm npx nvm perl pip pm2 python redis-cli ruby symfony vscode xcode)
 
 source $ZSH/oh-my-zsh.sh
 
