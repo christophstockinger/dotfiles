@@ -33,6 +33,9 @@ mysql -u root -e "ALTER USER root@localhost IDENTIFIED WITH mysql_native_passwor
 # Install PHP extensions with PECL
 pecl install imagick redis swoole
 
+# Change Git default branch
+git config --global init.defaultBranch main
+
 # Install global Composer packages
 /usr/local/bin/composer global require laravel/installer laravel/valet beyondcode/expose
 
