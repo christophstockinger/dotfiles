@@ -44,6 +44,7 @@ git clone git@github.com:c77-digital/react-typescript-graphql-boilerplate.git $T
 # Strichpunkt Design
 git clone git@github.com:strichpunkt-design/dpdhl-next-api.git $DPDHL/dpdhl-next-api
 git clone git@github.com:strichpunkt-design/dpdhl-next-auth.git $DPDHL/dpdhl-next-auth
+git clone git@github.com:strichpunkt-design/dpdhl-next-cms.git $DPDHL/dpdhl-next-cms
 git clone git@github.com:strichpunkt-design/dpdhl-next-email-service.git $DPDHL/dpdhl-next-email-service
 git clone git@github.com:strichpunkt-design/dpdhl-next-fonts.git $DPDHL/dpdhl-next-fonts
 git clone git@github.com:strichpunkt-design/dpdhl-next-iconlibary.git $DPDHL/dpdhl-next-iconlibary
