@@ -14,6 +14,7 @@ alias dotfiles="cd $DOTFILES"
 alias library="cd $HOME/Library"
 alias projects="cd $HOME/Code"
 alias c77="projects && cd c77-digital/"
+alias mtd="projects && cd morethingsdigital/"
 alias cs="projects && cd christophstockinger/"
 alias templates="projects && cd templates/"
 alias dpdhl="projects && cd dpdhl/"
@@ -70,3 +71,5 @@ alias resolve="git add . && git commit --no-edit"
 alias stash="git stash -u"
 alias unstage="git restore --staged ."
 alias wip="commit wip"
+
+alias composer='/usr/local/Cellar/composer/2.2.9/bin/composer'

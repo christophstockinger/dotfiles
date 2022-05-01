@@ -2,7 +2,7 @@
 export DOTFILES=$HOME/.dotfiles
 
 # If you come from bash you might have to change your $PATH.
-# export PATH=$HOME/bin:/usr/local/bin:$PATH
+export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
@@ -78,7 +78,7 @@ ZSH_CUSTOM=$DOTFILES
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(aws brew bundler colorize composer cp docker-compose docker doctl dotenv emoji encode64 gcloud gh git-lfs git gitignore helm ionic iterm2 laravel macos mongocli node npm npx nvm perl pip pm2 python redis-cli ruby symfony vscode xcode)
+plugins=(aws brew bundler colorize composer cp docker-compose docker doctl emoji encode64 gcloud gh git-lfs git gitignore helm ionic iterm2 laravel macos mongocli node npm nvm perl pip pm2 python redis-cli ruby symfony vscode xcode)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -108,3 +108,10 @@ export LANG=en_US.UTF-8
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+
+export PATH="/usr/local/opt/php@8.1/bin:$PATH"
+export PATH="/usr/local/opt/php@8.1/sbin:$PATH"
+# export PATH="/usr/local/opt/php@8.0/bin:$PATH"
+# export PATH="/usr/local/opt/php@8.0/sbin:$PATH"
+# export PATH="/usr/local/opt/php@7.4/bin:$PATH"
+# export PATH="/usr/local/opt/php@7.4/sbin:$PATH"

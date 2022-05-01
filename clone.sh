@@ -33,7 +33,7 @@ git clone git@github.com:c77-digital/krga-website-backend.git $C77/krga-website-
 git clone git@github.com:c77-digital/laufer-der-hilft-website.git $C77/laufer-der-hilft-website
 git clone git@github.com:c77-digital/mn-website.git $C77/mn-website
 git clone git@github.com:c77-digital/srg-passau-api.git $C77/srg-passau-api
-git clone git@github.com:c77-digital/srg-rueckgaben-tool.git $C77/srg-rueckgaben-tool
+git clone git@github.com:c77-digital/srg-portal.git $C77/srg-portal
 git clone git@github.com:c77-digital/whatsapp-slack-app.git $C77/whatsapp-slack-app
 
 # C77 Digital GmbH - Templates
