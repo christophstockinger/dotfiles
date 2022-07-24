@@ -20,12 +20,14 @@ alias templates="projects && cd templates/"
 alias dpdhl="projects && cd dpdhl/"
 alias k16="projects && cd k16/"
 alias dfb="projects && cd dfb/"
+alias frd="projects && cd fredmansky/"
 alias lsc77="c77 && cd ls"
 alias lscs="cs && cd ls"
 alias lstemplates="templates && cd ls"
 alias lsdpdhl="dpdhl && cd ls"
 alias lsk16="k16 && cd ls"
 alias lsdfb="dfb && cd ls"
+alias lsfrd="frd && cd ls"
 
 # Laravel
 alias a="php artisan"
@@ -34,6 +36,8 @@ alias tinker="php artisan tinker"
 alias seed="php artisan db:seed"
 alias serve="php artisan serve"
 alias routes="php artisan route:list"
+alias readlog="cat ./storage/logs/laravel.log"
+alias clearlog="rm ./storage/logs/laravel.log"
 
 # Statamic
 alias scache="php artisan cache:clear"
@@ -73,3 +77,4 @@ alias unstage="git restore --staged ."
 alias wip="commit wip"
 
 alias composer='/usr/local/Cellar/composer/2.2.9/bin/composer'
+alias gam="/Users/cstockinger/bin/gam/gam"
