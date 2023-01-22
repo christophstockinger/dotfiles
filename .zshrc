@@ -109,11 +109,13 @@ export LANG=en_US.UTF-8
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-# export PATH="/usr/local/opt/php@8.1/bin:$PATH"
-# export PATH="/usr/local/opt/php@8.1/sbin:$PATH"
-export PATH="/usr/local/opt/php@8.0/bin:$PATH"
-export PATH="/usr/local/opt/php@8.0/sbin:$PATH"
+export PATH="/usr/local/opt/php@8.1/bin:$PATH"
+export PATH="/usr/local/opt/php@8.1/sbin:$PATH"
+# export PATH="/usr/local/opt/php@8.0/bin:$PATH"
+# export PATH="/usr/local/opt/php@8.0/sbin:$PATH"
 # export PATH="/usr/local/opt/php@7.4/bin:$PATH"
 # export PATH="/usr/local/opt/php@7.4/sbin:$PATH"
+# export PATH="/usr/local/opt/php@7.3/bin:$PATH"
+# export PATH="/usr/local/opt/php@7.3/sbin:$PATH"
 function gam() { "/Users/cstockinger/bin/gam/gam" "$@" ; }
 export PATH=${PATH}:~/.composer/vendor/bin
