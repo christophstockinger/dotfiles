@@ -38,15 +38,15 @@ git clone git@github.com:morethingsdigital/mn-website.git $MTD/mn-website
 git clone git@github.com:c77-digital/krga-api.git $MTD/krga-api
 git clone git@github.com:c77-digital/krga-intranet-frontend.git $MTD/krga-intranet-frontend
 git clone git@github.com:c77-digital/krga-stammdaten-frontend.git $MTD/krga-stammdaten-frontend
-git cone git@github.com:morethingsdigital/zfb-corporate-website.git $MTD/zfb-corporate-website
-git cone git@github.com:stereosense/involve.me-cms.git $MTD/involveme-cms
-git cone git@github.com:morethingsdigital/involveme-blog-parser.git $MTD/involveme-blog-parser
-git cone git@github.com:morethingsdigital/morethingsdigital-website-frontend.git $MTD/morethingsdigital-website-frontend
-git cone git@github.com:morethingsdigital/morethingsdigital-website-cms.git $MTD/morethingsdigital-website-cms
-git cone git@github.com:morethingsdigital/mtd-privacy-tool.git $MTD/mtd-privacy-tool
-git cone git@github.com:morethingsdigital/mtd-daily.git $MTD/mtd-daily
-git cone git@github.com:CreativeCark/SYBAC-APP.git $MTD/sybac-app
-git cone git@github.com:morethingsdigital/morethingsdigital-google-gam.git $MTD/morethingsdigital-google-gam
+git clone git@github.com:morethingsdigital/zfb-corporate-website.git $MTD/zfb-corporate-website
+git clone git@github.com:stereosense/involve.me-cms.git $MTD/involveme-cms
+git clone git@github.com:morethingsdigital/involveme-blog-parser.git $MTD/involveme-blog-parser
+git clone git@github.com:morethingsdigital/morethingsdigital-website-frontend.git $MTD/morethingsdigital-website-frontend
+git clone git@github.com:morethingsdigital/morethingsdigital-website-cms.git $MTD/morethingsdigital-website-cms
+git clone git@github.com:morethingsdigital/mtd-privacy-tool.git $MTD/mtd-privacy-tool
+git clone git@github.com:morethingsdigital/mtd-daily.git $MTD/mtd-daily
+git clone git@github.com:CreativeCark/SYBAC-APP.git $MTD/sybac-app
+git clone git@github.com:morethingsdigital/morethingsdigital-google-gam.git $MTD/morethingsdigital-google-gam
 
 # Strichpunkt Design
 git clone git@github.com:strichpunkt-design/dpdhl-next-api.git $DPDHL/dpdhl-next-api
