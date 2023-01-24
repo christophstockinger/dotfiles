@@ -1,0 +1,6 @@
+[submodule "plugins/zsh-artisan"]
+	path = plugins/zsh-artisan
+	url = https://github.com/jessarcher/zsh-artisan.git
+[submodule "plugins/artisan"]
+	path = plugins/artisan
+	url = https://github.com/jessarcher/zsh-artisan.git
