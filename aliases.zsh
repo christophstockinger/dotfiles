@@ -74,7 +74,7 @@ alias stash="git stash -u"
 alias unstage="git restore --staged ."
 alias wip="commit wip"
 
-alias composer='/usr/local/Cellar/composer/2.5.1/bin/composer'
+# alias composer='/usr/local/Cellar/composer/2.5.1/bin/composer'
 alias gam="/Users/cstockinger/bin/gam/gam"
 alias php74="/usr/local/opt/php@7.4/bin/php"
 alias php80="/usr/local/opt/php@8.0/bin/php"
