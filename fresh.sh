@@ -39,10 +39,13 @@ git config --global user.email "cstockinger@c77.digital"
 git config --global user.name "Christoph Stockinger"
 
 # Install global Composer packages
-/usr/local/bin/composer global require laravel/installer laravel/valet beyondcode/expose
+/usr/local/bin/composer global require laravel/installer laravel/valet beyondcode/expose spatie/global-ray spatie/visit
 
 # Install Laravel Valet
 $HOME/.composer/vendor/bin/valet install
+
+# Install Global Ray
+$HOME/.composer/vendor/bin/global-ray install
 
 # Create a Sites directory
 mkdir $HOME/Code
