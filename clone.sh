@@ -80,6 +80,7 @@ git clone https://bitbucket.dfbnet.org/scm/mpl/markenportal-cms.git $DFB/markenp
 # Fredmansky
 git clone git@github.com:fredmansky/ROTAX_com.flyrotax.www.git $FRD/flyrotax
 git clone git@github.com:fredmansky/ROTAX_com.rotax-kart.www.git $FRD/rotax-kart
+git clone  git@github.com:fredmansky/BISTUMPASSAU_de.bistum-passau.www.git $FRD/bistum-passau
 
 # Open Source
 
